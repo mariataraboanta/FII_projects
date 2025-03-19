@@ -1,0 +1,94 @@
+Class Fractie
+{
+    public:
+        int v = 5;
+        int x[2];
+    private:
+        bool f(Fractie fr1, bool y)
+        {
+            return false;
+        }
+};
+
+Fractie fr2;
+Fractie fr3;
+
+int f(int param1)
+{
+    int x;
+    if (2<3)
+    {
+        return x;
+    }
+}
+
+begin_progr
+
+Print(fr2.v);
+fr2.v *= 3;
+Print(fr2.v);
+Print(fr3.v);
+
+int param;
+Print(f(param));
+TypeOf(f(param));
+
+int a;
+
+fr3.v = (1 + 1) / 2 + fr2.x[0];
+a = ((2 + 1) * f(a) - (6 / 3)) * fr3.v;
+
+Print(a);
+a++;
+Print(a);
+TypeOf(a);
+
+int aux;
+aux = a;
+a--;
+Print(a);
+
+aux = a;
+
+Print('c');
+TypeOf('c');
+Print("string");
+TypeOf("string");
+
+float z;
+z = 1.5;
+z -= z / 2.0;
+TypeOf(z);
+
+bool b;
+b = true;
+Print(b);
+
+b = (!fr3.f(fr3, fr2.f(fr3, b)) != false && b == false);
+Print(b);
+
+b = !(b == true);
+TypeOf(b);
+Print(b);
+
+Print("inainte de if");
+Print(a);
+if (b != true)
+{
+    a += 3;
+}
+Print("dupa if");
+Print(a);
+
+int i;
+for (i = 1; i < 10; i+=3)
+{
+    int a;
+    a -= 3;
+    Print(a);
+    Print(i);
+}
+
+Print(a);
+
+end_progr

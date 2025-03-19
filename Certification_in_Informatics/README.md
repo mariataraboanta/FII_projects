@@ -1,0 +1,1 @@
+This project was completed in high school, 12th grade, in order to receive a certification in Informatics. For this project, I worked alongside a classmate of mine. I was involved in writing the HTML/CSS part for some of the modules, as I am not familiar with JavaScript. I also used Paint to create the images necessary for the website.

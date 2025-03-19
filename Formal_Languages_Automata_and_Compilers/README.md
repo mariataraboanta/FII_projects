@@ -43,3 +43,5 @@ This project was completed in the second year of college, first semester, as par
 4) Evaluation of arithmetic expressions and boolean expressions—C++ language
 
 - the evaluation of arithmetic expressions and boolean expressions using Abstract Syntax Trees (AST)
+
+The files ok.txt and progr.txt are valid inputs that show the functionality of the compiler.

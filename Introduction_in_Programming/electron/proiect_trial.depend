@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1701694964 source:d:\fii\anul_i\semestrul_i\ip\proiect_trial\main.cpp
+	<graphics.h>
+	<graphics.h>
+
+1703851821 source:d:\fii\anul_i\semestrul_i\ip\proiect_ip\proiect_trial\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+
+1704289310 source:c:\fii sa fie\sem 1\ip\proiect electron\proiect_trial\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+
+1704962252 source:d:\fii\anul_i\semestrul_i\ip\proiect_ip\proiect_trial2\proiect_trial\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+	<mmsystem.h>
+
+1705309113 source:d:\fii\anul_i\semestrul_i\ip\proiect_ip\b1_hurmuzache_taraboanta_electron\proiect_trial\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+	<mmsystem.h>
+
+1705514675 source:d:\fii\anul_i\semestrul_i\ip\proiect_ip\b1_hurmuzache_taraboanta_electron\b1_hurmuzache_taraboanta_electron\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+	<mmsystem.h>
+
+1705514676 source:c:\fii sa fie\fii_projects\introduction_in_programming\electron\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<graphics.h>
+	<mmsystem.h>
+
